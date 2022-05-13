@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(45, 115, 155, 0.568);
+}
+.titulo-principal , .sub-titulo , .experiencia {
+    font: normal 18pt Arial;
+}
+.titulo-principal{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
+.sub-titulo{
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+}
+.experiencia{
+    background-color: rgba(76, 197, 187, 0.596);
+    margin: 1%;
+    border: 2px solid;
+    padding: 1%;
+}
+.imagem-gui{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
